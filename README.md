@@ -293,3 +293,8 @@ Signing happens automatically in the [release pipeline](.github/workflows/releas
 ## License
 
 MIT
+
+
+Tải cả chục gigabyte mô hình AI về máy rồi ngậm ngùi xóa đi vì tràn RAM là trải nghiệm không mấy vui vẻ.
+Nếu bạn muốn chạy mô hình ngôn ngữ lớn trực tiếp trên máy cá nhân mà không biết phần cứng của mình gánh nổi bản nào, hãy thử ngay công cụ llmfit. Chỉ với một câu lệnh đơn giản, công cụ này sẽ tự động quét dung lượng RAM và card đồ họa của bạn, sau đó đề xuất chính xác những mô hình chạy mượt mà nhất. Bạn sẽ tiết kiệm được rất nhiều thời gian thử nghiệm và không còn phải đoán mò xem máy mình chịu được mô hình nào nữa.
+
